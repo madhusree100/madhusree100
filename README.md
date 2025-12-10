@@ -1,35 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🌸 Hey there! I'm Madhusree 👋  
+### *Aspiring Data Analyst | Tech Enthusiast | Lifelong Learner*
 
-###
+<p align="left">
+  My name is <b>Madhusree Purkayastha</b> and I'm an aspiring Data Analyst from Assam 🇮🇳.<br>
+  I'm currently pursuing my Master's at <b>Delhi Technological University</b>.  
+  Passionate about uncovering insights from data and turning them into meaningful stories 📊✨
+</p>
 
-<p align="left">My name is Madhusree Purkayastha and I'm an aspiring Data Analyst from Assam.</p>
+---
 
-###
+## 🌟 About Me  
 
-<h2 align="left">About me</h2>
+- ✨ Currently pursuing **M.Sc. in Data Science**  
+- 📚 Learning and building **Data Analysis Projects**  
+- 💼 Goal: **Land a high-paying role in a top tech company**  
+- 🎲 Fun fact: *I love discovering hidden patterns—both in data and in life!*  
 
-###
+---
 
-<p align="left">✨ I am currently a Masters student at Delhi Technological university<br>📚 I'm currently learning Data analysis and creating projects.<br>🎯 Goals: To land a High paying Job in Tech giants.<br>🎲 Fun fact:</p>
+## 🚀 Tech Stack & Tools  
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+</p>
 
-<h2 align="left">I code with Python</h2>
+---
 
-###
+## 🔥 What I’m Working On  
+- 📊 **Data Analytics portfolio projects**  
+- 🧠 Learning **Machine Learning basics**  
+- ⚙️ Improving skills in **Python, SQL, and Exploratory Data Analysis (EDA)**  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+## ✨ GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhusree100&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhusree100&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/madhusree-purkayastha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:madhusreep02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🎉 Thanks for visiting my profile!
+
